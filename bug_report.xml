@@ -1,1 +1,10 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<bug>
+  <id>44</id>
+  <heading>The send message utton is not active in the feedback form</heading>
+  <description>after entering the text, the send message button is not active</description>
+  <os>windows</os>
+  <priority>hight</priority>
+  <repeatability>stable</repeatability>
+  <steps>.....</steps>
+</bug>
