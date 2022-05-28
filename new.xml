@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<about>
+    <name>Sergey</name>
+    <surname>Filippov</surname>
+    <patronymic>Yurievich</patronymic>
+    <age>36</age>
+    <animals>1</animals>
+    <salary>2000</salary>
+</about>
